@@ -177,6 +177,10 @@ i:hover {
   margin: 0 20px;
 }
 
+.bottom-wrapper i:hover {
+  color: #ff91af;
+}
+
 .copyright {
   color: #ff91af;
   opacity: 70%;
